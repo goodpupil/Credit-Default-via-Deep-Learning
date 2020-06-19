@@ -1,2 +1,2 @@
 # Credit-Default-via-Deep-Learning
-data: UCI machine learning dataset
+We implemented Deep-Time series features extraction model on the Default of Credit Cards Clients Dataset.
